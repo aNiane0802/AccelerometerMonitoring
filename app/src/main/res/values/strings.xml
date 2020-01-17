@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AccelerometerExperimentation</string>
+    <string name="noMovement">À l\'arrêt</string>
+    <string name="startButton">COMMENCER</string>
+    <string name="doneorundone">DoneOrUndone</string>
+    <string name="configurationExtra">Configuration</string>
+    <string name="chooseApproach">Choisir une approche</string>
+    <string name="experience">Expérience : %1$s</string>
+    <string-array name="configurations">
+        <item>"Poche chemise"</item>
+        <item>"Poche avant du pantalon"</item>
+        <item>"Poche Arrière du pantalon "</item>
+        <item>"Poches du manteau"</item>
+        <item>"Sac à main"</item>
+        <item>"Poches du sac PC"</item>
+        <item>"Téléphone en main, taper avec l'autre main"</item>
+        <item>Taper le téléphone sur le corps (cuisse...)</item>
+    </string-array>
+
+    <string-array name="approachs">
+        <item>À l\'arrêt</item>
+        <item>En marche normale/lente </item>
+        <item>En marche énergique</item>
+    </string-array>
+    <string name="approachExtra">Approach</string>
+    <string name="recordingInstructions">L\'enregistrement a démarré.\nImprimez vos chocs.\nVous avez jusqu\'à 2 minutes. </string>
+    <string name="stopExperience">Arrêter l\'expérience</string>
+    <string name="remainingTimeTextView">Temps restant : %1$.2f s</string>
+    <string name="persistenceExtra">Persistence</string>
+    <string name="sendFile">Nom du fichier</string>
+    <string name="deletionSuccess">Le dernier fichier généré a été supprimé.</string>
+    <string name="deletionFailure">Erreur lors de la suppression du fichier généré .</string>
+    <string name="sendWith">Envoyer avec</string>
+    <string name="mailSubject">Relevés de l\'accéléromètre</string>
+    <string name="mailBody">Voici les stats du relevé effectué le %1$s</string>
+    <string name="emailRecipient">aboubakrine.niane@continental-corporation.com</string>
+    <string name="dataSendingActivityTitle">Envoi des données</string>
+    <string name="experimentation">Expérimentation</string>
+    <string name="configurationActivityTitle">Configuration</string>
+    <string name="recordingActivityTitle">Enregistrement</string>
+</resources>
